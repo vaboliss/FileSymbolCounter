@@ -1,0 +1,16 @@
+C:\Users\a.vabolis\source\repos\FileSymbolCounter\bin\Debug\net8.0\FileSymbolCounter.exe
+C:\Users\a.vabolis\source\repos\FileSymbolCounter\bin\Debug\net8.0\FileSymbolCounter.deps.json
+C:\Users\a.vabolis\source\repos\FileSymbolCounter\bin\Debug\net8.0\FileSymbolCounter.runtimeconfig.json
+C:\Users\a.vabolis\source\repos\FileSymbolCounter\bin\Debug\net8.0\FileSymbolCounter.dll
+C:\Users\a.vabolis\source\repos\FileSymbolCounter\bin\Debug\net8.0\FileSymbolCounter.pdb
+C:\Users\a.vabolis\source\repos\FileSymbolCounter\obj\Debug\net8.0\FileSymbolCounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.vabolis\source\repos\FileSymbolCounter\obj\Debug\net8.0\FileSymbolCounter.AssemblyInfoInputs.cache
+C:\Users\a.vabolis\source\repos\FileSymbolCounter\obj\Debug\net8.0\FileSymbolCounter.AssemblyInfo.cs
+C:\Users\a.vabolis\source\repos\FileSymbolCounter\obj\Debug\net8.0\FileSymbolCounter.csproj.CoreCompileInputs.cache
+C:\Users\a.vabolis\source\repos\FileSymbolCounter\obj\Debug\net8.0\FileSymbolCounter.sourcelink.json
+C:\Users\a.vabolis\source\repos\FileSymbolCounter\obj\Debug\net8.0\FileSymbolCounter.dll
+C:\Users\a.vabolis\source\repos\FileSymbolCounter\obj\Debug\net8.0\refint\FileSymbolCounter.dll
+C:\Users\a.vabolis\source\repos\FileSymbolCounter\obj\Debug\net8.0\FileSymbolCounter.pdb
+C:\Users\a.vabolis\source\repos\FileSymbolCounter\obj\Debug\net8.0\FileSymbolCounter.genruntimeconfig.cache
+C:\Users\a.vabolis\source\repos\FileSymbolCounter\obj\Debug\net8.0\ref\FileSymbolCounter.dll
+C:\Users\a.vabolis\source\repos\FileSymbolCounter\bin\Debug\net8.0\input.txt
