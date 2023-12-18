@@ -1,4 +1,4 @@
-﻿const string filePath = "input.txt";
+const string filePath = "input.txt";
 
 try
 {
